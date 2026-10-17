@@ -28,4 +28,3 @@ console.log(sumFor([1, 2, 3, 4]));
 console.log(sumWhile([1, 2, 3, 4]));
 console.log(sumRecursion([1, 2, 3, 4]));
 console.log(sumTheFunctionalWay([1, 2, 3, 4]));
-
